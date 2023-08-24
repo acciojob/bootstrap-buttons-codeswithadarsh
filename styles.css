@@ -1,2 +1,36 @@
 
 /* Your CSS Code here. */
+#button-1{
+    background-color:blue ;
+    color: white;
+}
+#button-2{
+    background-color:white ;
+    color: black;
+}
+#button-3{
+    background-color:green ;
+    color: white;
+}
+#button-4{
+    background-color:rgb(223, 26, 59) ;
+    border: none;
+    color: white;
+}
+#button-5{
+    background-color:yellow ;
+    width: 100%;
+    border: none;
+}
+#button-6{
+    background-color:skyblue ;
+    border: none;
+}
+#button-7{
+    background-color:rgb(216, 211, 211) ;
+    color: black;
+    border: none;
+}
+#button-8{
+    border: none;
+}
